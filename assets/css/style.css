@@ -11,6 +11,17 @@ html {
 body {
   margin: 0; }
 
+nav {}
+ .footer_in        { width:632px;}
+nav ul li a       { display:block;}
+  .footer_in        { width:98%;}
+  .footer_in_top      { width:100%;}
+  .foot_logo        { float:none; margin:0 auto 20px; display:block; width:244px;}
+  .address        { float:none; display:block; width:224px; margin:0 auto;}
+  .foot_nav ul      { display:block; border:none;}
+  .foot_nav ul li     { float:none; display:block; text-align:center; border:none; padding:0 0 6px 0;}
+footer          { background-size:100% 100%; }
+
 article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
   display: block; }
 
