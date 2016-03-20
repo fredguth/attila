@@ -1012,9 +1012,8 @@ img {
   background-color: #000000;}
 
 .credits {
-  text-align: center;
   font-size: 0.625em;
-  line-height: 1em;
+  line-height: 1.5em;
   padding: 1.1em 0;
   overflow: auto;}
 
@@ -1025,7 +1024,8 @@ img {
   display: block; }
 
 .credits-theme {
-  float: left; }
+  float: left;
+  margin-right: 6em;}
 
 .credits-software {
   float: right; }
