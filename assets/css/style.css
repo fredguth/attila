@@ -1276,10 +1276,8 @@ img {
 }
 
 #notification_container .alert {
-  display: block;
-  width: 100%;
-  padding: 1em 2em;
-  border: 1px solid #cfc07e;
+
+  padding: .5em 1em;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
@@ -1288,20 +1286,11 @@ img {
   line-height: 1.3em;
   font-weight: bold;
   text-shadow: 1px 1px 0 rgba(255,255,255,0.75);
-  background-color: #e3cb77;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#e3cb77), to(#f4e4a8));
-  background-image: -webkit-linear-gradient(top, #e3cb77, #f4e4a8);
-  background-image: -moz-linear-gradient(top, #e3cb77, #f4e4a8);
-  background-image: -ms-linear-gradient(top, #e3cb77, #f4e4a8);
-  background-image: -o-linear-gradient(top, #e3cb77, #f4e4a8);
-  background-image: linear-gradient(top, #e3cb77, #f4e4a8);
+  background-color: #f4e4a8;
 }
 
 #notification_container .success {
-  display: block;
-  width: 100%;
-  padding: 11px 20px;
-  border: 1px solid #78aa5f;
+  padding: .5em 1em;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
@@ -1309,15 +1298,8 @@ img {
   font-size: 1.1em;
   line-height: 1.3em;
   font-weight: bold;
-  text-shadow: 1px 1px 0 rgba(255,255,255,0.5);
-  background-color: #9ac784;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#9ac784), to(#aed39c));
-  background-image: -webkit-linear-gradient(top, #9ac784, #aed39c);
-  background-image: -moz-linear-gradient(top, #9ac784, #aed39c);
-  background-image: -ms-linear-gradient(top, #9ac784, #aed39c);
-  background-image: -o-linear-gradient(top, #9ac784, #aed39c);
-  background-image: linear-gradient(top, #9ac784, #aed39c);
-}
+  text-shadow: 1px 1px 0 rgba(255,255,255,0.75);
+  background-color: #AED39C;
 
 /** MailChimp Styles **/
 #mc_embed_signup{
