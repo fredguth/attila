@@ -1257,7 +1257,10 @@ img {
 #content {
   display: block;
   background: #bbd2d8;
-  padding: .5em 2em;
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 1em;
+  text-align: center;
+  padding: 1em 2em;
   -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
   -moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
@@ -1336,15 +1339,12 @@ img {
 #mc_embed_signup .button {
   display: block;
   font-family: 'Fira Sans', sans-serif;
-  font-size: 0.75em;
-  line-height: 1.666em;
   text-shadow: none;
   position: relative;
   background-color: #8db671;
   padding: 0;
   margin: 0 auto;
-  border: 0 none;
-  border-bottom: #719f5a 3px solid;
+  border-color: #719f5a;
   border-radius: 2em;
   color: #fff;
   cursor: pointer;
