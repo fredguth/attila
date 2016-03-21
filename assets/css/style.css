@@ -1232,6 +1232,23 @@ img {
   background-color:#bbd2d8;
   padding: 1.5em;
   padding-top: 1em;
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 0.75em;
+  line-height: 1.666em;
+}
+.news-button{
+  display: block;
+  height: 1.5em;
+  margin-bottom: 1em;
+  padding: 0.5em 1.25em;
+  border: 1px solid #c2c7cc;
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 0.75em;
+  line-height: 1.666em;
+  text-shadow: none;
+  color: #8a9199;
+  background: #ffffff;
+  border-radius: 2em;
 }
 
 /* ==========================================================================
