@@ -1257,6 +1257,7 @@ img {
 #content {
   display: block;
   background: #bbd2d8;
+  margin-bottom: -2em;
   font-family: 'Fira Sans', sans-serif;
   font-size: 1em;
   text-align: center;
@@ -1300,6 +1301,7 @@ img {
   font-weight: bold;
   text-shadow: 1px 1px 0 rgba(255,255,255,0.75);
   background-color: #AED39C;
+}
 
 /** MailChimp Styles **/
 #mc_embed_signup{
